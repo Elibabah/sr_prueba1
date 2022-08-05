@@ -1,0 +1,25 @@
+{
+  "name": "sr_prueba1",
+  "version": "1.0.0",
+  "description": "prueba sr1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elibabah/sr_prueba1.git"
+  },
+  "keywords": [
+    "algoritmos"
+  ],
+  "author": "elias hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elibabah/sr_prueba1/issues"
+  },
+  "homepage": "https://github.com/Elibabah/sr_prueba1#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
