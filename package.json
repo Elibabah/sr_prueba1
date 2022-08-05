@@ -1,25 +1,29 @@
 {
-  "name": "sr_prueba1",
-  "version": "1.0.0",
-  "description": "prueba sr1",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Elibabah/sr_prueba1.git"
-  },
-  "keywords": [
-    "algoritmos"
-  ],
-  "author": "elias hernandez",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Elibabah/sr_prueba1/issues"
-  },
-  "homepage": "https://github.com/Elibabah/sr_prueba1#readme",
-  "devDependencies": {
-    "eslint": "^8.21.0"
-  }
+    "name": "sr_prueba1",
+    "version": "1.0.0",
+    "description": "prueba sr1",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Elibabah/sr_prueba1.git"
+    },
+    "keywords": [
+        "algoritmos"
+    ],
+    "author": "elias hernandez",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Elibabah/sr_prueba1/issues"
+    },
+    "homepage": "https://github.com/Elibabah/sr_prueba1#readme",
+    "devDependencies": {
+        "@babel/core": "^7.18.10",
+        "@babel/preset-env": "^7.18.10",
+        "babel-jest": "^28.1.3",
+        "eslint": "^8.21.0",
+        "jest": "^28.1.3"
+    }
 }
